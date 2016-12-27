@@ -28,7 +28,7 @@ List installed versions:
 
 Sets a local application-specific Python version:
 
-        $pyenv local 2.7.6
+        $ pyenv local 2.7.6
 
 Unset the local version:
 
