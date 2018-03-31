@@ -15,3 +15,8 @@ Create universal wheel:
 Upload to pypi:
 
     $ twine upload dist/*
+
+
+# Links
+
+* https://packaging.python.org/tutorials/distributing-packages/
