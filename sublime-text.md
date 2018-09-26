@@ -2,7 +2,7 @@
 
 Used for linting.
 
-Exaple of project configuration (MyProject.sublime-project):
+Example of project configuration (MyProject.sublime-project):
 
 ```json
 {
@@ -15,4 +15,10 @@ Exaple of project configuration (MyProject.sublime-project):
         "python_interpreter": "~/virtualenvs/my_project/bin/python3"
     }
 }
+```
+
+Support Dark Mode in macOS Mojave:
+
+```bash
+$ defaults write com.sublimetext.3 NSRequiresAquaSystemAppearance 0
 ```
