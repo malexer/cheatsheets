@@ -57,3 +57,10 @@ From version 2.7.10 with name "venv27":
 ### Delete existing virtualenv
 
         $ pyenv uninstall venv27
+        
+        
+## pipenv
+
+### install packages
+
+        $ pipenv install <package_name>
