@@ -52,7 +52,6 @@ From version 2.7.10 with name "venv27":
 ### Activate/deactivate
 
         $ pyenv activate <name>
-        $ pyenv activate <name>
         $ pyenv deactivate
 
 ### Delete existing virtualenv
@@ -62,7 +61,6 @@ From version 2.7.10 with name "venv27":
         
 ## pipenv
 
-### insatll packages
-
+### install packages
 
         $ pipenv install <package_name>
