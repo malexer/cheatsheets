@@ -24,6 +24,11 @@ List installed versions:
 
         $ pyenv versions
 
+### pyenv global
+Select a python version as a global:
+
+        $ pyenv global 3.5.1
+
 ### pyenv local
 
 Sets a local application-specific Python version:
